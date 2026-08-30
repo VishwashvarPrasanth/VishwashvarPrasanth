@@ -6,7 +6,7 @@ Backend-focused developer building secure, scalable applications with Node.js �
 🌱 Deep-diving into Node.js internals — the event loop, libuv, non-blocking I/O — and backend system design fundamentals
 🎯 Preparing for backend engineering interviews (DSA + system design + project deep-dives)
 📍 Based in Erode, India
-📫 Reach me: vishwashvarprasanth@gmail.com · LinkedIn
+📫 Reach me: vishwashvarprasanth@gmail.com · www.linkedin.com/in/vishwashvar-prasanth
 🛠️ Tech Stack
 
 Backend: Node.js · Express · MongoDB · PostgreSQL · Redis · BullMQ · JWT Auth Frontend: React · Vite · Tailwind CSS Tools & Practices: Docker, Sequelize/Mongoose, SSE, Cron Jobs, RBAC, REST API Design
