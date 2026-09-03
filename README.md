@@ -1,15 +1,15 @@
 Hi, I'm Prasanth 👋
 
-Backend-focused developer building secure, scalable applications with Node.js — transitioning from an Agricultural Engineering background into software engineering, self-taught, and targeting backend/SDE-1 roles at product companies.
+Full Stack developer building secure, scalable applications with MERN Stack — transitioning from an Agricultural Engineering background into software engineering, self-taught, and targeting backend/SDE-1 roles at product companies.
 
 🔭 Currently building a B2B Learning Platform (MERN stack, Groq LLM-powered roadmap generation, BullMQ email queues, JWT RBAC)
 🌱 Deep-diving into Node.js internals — the event loop, libuv, non-blocking I/O — and backend system design fundamentals
 🎯 Preparing for backend engineering interviews (DSA + system design + project deep-dives)
-📍 Based in Erode, India
+📍 Based in , India
 📫 Reach me: vishwashvarprasanth@gmail.com · www.linkedin.com/in/vishwashvar-prasanth
 🛠️ Tech Stack
 
-Backend: Node.js · Express · MongoDB · PostgreSQL · Redis · BullMQ · JWT Auth Frontend: React · Vite · Tailwind CSS Tools & Practices: Sequelize/Mongoose, SSE, Cron Jobs, RBAC, REST API Design
+Full Stack Developer : React, Node.js · Express · MongoDB · PostgreSQL · Redis · BullMQ · JWT Auth Frontend: React · Vite · Tailwind CSS Tools & Practices: Sequelize/Mongoose, SSE, Cron Jobs, RBAC, REST API Design
 
 🚀 Featured Projects
 B2B Learning Platform
