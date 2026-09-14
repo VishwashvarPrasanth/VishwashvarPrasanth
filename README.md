@@ -10,7 +10,9 @@ Full Stack developer building secure, scalable applications with MERN Stack — 
 📫 Reach me: vishwashvarprasanth@gmail.com · www.linkedin.com/in/vishwashvar-prasanth
 🛠️ Tech Stack
 
-Full Stack Developer : React, Node.js · Express · MongoDB · PostgreSQL · Redis · BullMQ · JWT Auth Frontend: React · Vite · Tailwind CSS Tools & Practices: Sequelize/Mongoose, SSE, Cron Jobs, RBAC, REST API Design
+Full Stack Developer : React, Node.js · Express · MongoDB · PostgreSQL · Redis · BullMQ · JWT Auth
+Frontend: React · Vite · Tailwind CSS
+Tools & Practices: Sequelize/Mongoose, SSE, Cron Jobs, RBAC, REST API Design
 
 🚀 Featured Projects
 B2B Learning Platform
