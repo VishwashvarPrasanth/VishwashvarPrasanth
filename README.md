@@ -1,24 +1,22 @@
-Hi, I'm Vishwashvar Prasanth 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Transitioning+from+AgriEng+to+SDE-1;Building+a+B2B+Learning+Platform;Backend+Engineer+in+Progress)](https://git.io/typing-svg)
+<h1 align="left">Hey there, I'm Vishwashvar Prasanth 👋</h1> <h3 align="left">
 
-Full Stack developer building secure, scalable applications with MERN Stack — transitioning from an Agricultural Engineering background into software engineering, self-taught, and targeting backend/SDE-1 roles. 
 
-🔭 Currently building a B2B Learning Platform (MERN stack, Groq LLM-powered roadmap generation, BullMQ email queues, JWT RBAC)
-🌱 Deep-diving into Node.js internals — the event loop, libuv, non-blocking I/O — and backend system design fundamentals
-🎯 Preparing for backend engineering interviews (DSA + system design + project deep-dives)
-📍 Based in , India
-📫 Reach me: vishwashvarprasanth@gmail.com · www.linkedin.com/in/vishwashvar-prasanth
+</h3> <p align="left"> <a href="https://www.linkedin.com/in/vishwashvar-prasanth" target="_blank"> <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/vishwashvar-prasanth" target="_blank"> <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://leetcode.com/u/vishwashvarprasanth/" target="_blank"> <img src="https://img.shields.io/badge/-LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />  </p> <table> <tr> <td valign="top" width="60%">
+👤 About Me
+
+Software Engineer specializing in Node.js, Express.js, MongoDB & PostgreSQL — building secure, scalable backend systems with JWT-based auth and RBAC. Self-taught, transitioning from an Agricultural Engineering background into software engineering, and targeting SDE-1 roles at product companies.
+
+⚡ Cut API response latency by 40% with a BullMQ + Redis async pipeline (weekly reports & scheduled jobs)
+
+🔒 Built RBAC across 3 roles with 100% double-booking prevention via real-time slot-conflict validation
+
+🤖 Integrated Groq Llama 3.3 to auto-generate personalized learning roadmaps from skill-gap analysis
+
+🧩 Designed MongoDB & PostgreSQL schemas (Sequelize/ORM) for real production workloads, not just CRUD demos
+
+🎯 Strong in DSA, system design & OOP — actively interview-prepping for SDE-1
+
+Build things. Break things. Learn things. Ship things.
+
 🛠️ Tech Stack
-
-Full Stack Developer : React, Node.js · Express · MongoDB · PostgreSQL · Redis · BullMQ · JWT Auth
-Frontend: React · Vite · Tailwind CSS
-Tools & Practices: Sequelize/Mongoose, SSE, Cron Jobs, RBAC, REST API Design
-
-🚀 Featured Projects
-B2B Learning Platform
-
-Full-stack MERN platform with AI-powered roadmap generation (Groq LLM), course/module management with progress tracking, an admin dashboard with cron jobs, and a BullMQ + Redis email queue. Built across 7 phases — auth, assessment engine, AI roadmaps, course management, admin tooling, background jobs, and a React frontend. Deployed on Render.
-
-Doctor-Appointment
-
-Doctor booking platform with a Node/Express/PostgreSQL backend — JWT authentication, appointment scheduling, and doctor search, paired with a redesigned patient-friendly frontend.
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,js,ts,react,git,github,docker,linux" /> </p>
