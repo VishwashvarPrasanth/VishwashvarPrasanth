@@ -1,5 +1,5 @@
-Hi, I'm Prasanth 👋
-
+Hi, I'm Vishwashvar Prasanth 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Transitioning+from+AgriEng+to+SDE-1;Building+a+B2B+Learning+Platform;Backend+Engineer+in+Progress)](https://git.io/typing-svg)
 Full Stack developer building secure, scalable applications with MERN Stack — transitioning from an Agricultural Engineering background into software engineering, self-taught, and targeting backend/SDE-1 roles at product companies.
 
 🔭 Currently building a B2B Learning Platform (MERN stack, Groq LLM-powered roadmap generation, BullMQ email queues, JWT RBAC)
